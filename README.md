@@ -7,6 +7,7 @@
 <p>1)Tesseract is an optical character recognition engine for various operating systems.  
 2)It is free software, released under the apache license, version 2.0, and development has been sponsored by google since 2006.
 3)In our project we used pytesseract module for character recognition.</p>
+
 # Process  
    First install the tesseract-ocr-setup-4.0.0-alpha
    Set environment for tesseract-ocr.
